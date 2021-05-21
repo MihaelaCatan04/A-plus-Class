@@ -21,5 +21,5 @@ In order to predict the personality type, you have to copy-paste a tweet into th
 ## Bibliography
 You can acces the data set here: https://www.kaggle.com/datasnaek/mbti-type
 
-## Authors
+## Author
 Catan Mihaela, mentored by Oniciuc Oriana.
