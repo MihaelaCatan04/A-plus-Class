@@ -13,13 +13,17 @@ We have cleaned our dataset, dropped NaN values, removed duplicated rows, splitt
 ### Preprocessing
 The preprocessing part consists of deleting the rows that contain links and applying the NLTK tools: tokenization, stemming, stopwords extraction and punctuation removal. 
 ### Model Creation
-We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths.   
+We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths. Here is the link to the models for downloading: https://drive.google.com/drive/folders/1-_QuAokdxnj0JvM4wrROwmozr4tAHuxT?usp=sharing   
+
+## Content
+* Personality_Model_Creation.ipynb includes Data Import, Exploratory Data Analysis, Posts Preprocessing and Modelling.
+* Personality_Prediction includes.ipynb includes Input Preprocessing, Input Reading and Prediction Obtainment.
 
 ## How to use the program?
-In order to predict the personality type, you have to copy-paste a tweet into the input cell, preprocess it, load the models and properly, predict it.
+In order to predict the personality type, you have to copy-paste a tweet into the input cell, preprocess it, load the models and properly, predict it. Use the Personality_Prediction.ipynb notebook.
 
 ## Bibliography
 You can acces the data set here: https://www.kaggle.com/datasnaek/mbti-type
 
 ## Author
-Catan Mihaela, mentored by Oniciuc Oriana.
+Mihaela Catan, mentored by Oriana Oniciuc.
