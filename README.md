@@ -13,7 +13,7 @@ We have cleaned our dataset, dropped NaN values, removed duplicated rows, splitt
 ### Preprocessing
 The preprocessing part consists of deleting the rows that contain links and applying the NLTK tools: tokenization, stemming, stopwords extraction and punctuation removal. 
 ### Model Creation
-We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths. Here is the link to the models for downloading: https://drive.google.com/drive/folders/1-_QuAokdxnj0JvM4wrROwmozr4tAHuxT?usp=sharing   
+We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths. Here is the link to the models for downloading: https://drive.google.com/drive/folders/1jBkcKQapW_Z9Ek19ilXyIfXBVLKf1bPc?usp=sharing 
 
 ## Content
 * Personality_Model_Creation.ipynb includes Data Import, Exploratory Data Analysis, Posts Preprocessing and Modelling.
