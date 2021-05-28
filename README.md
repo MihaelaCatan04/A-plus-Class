@@ -30,7 +30,7 @@ You can acces the data set here: https://www.kaggle.com/datasnaek/mbti-type
 
 General Information about MBTI: https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator
 
-Presentation: (this will be added after the competition) )
+Presentation: (this will be added after the competition :] )
 
 ## Author
 Mihaela Catan, mentored by Oriana Oniciuc.
