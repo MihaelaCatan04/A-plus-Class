@@ -15,7 +15,8 @@ The preprocessing part consists of deleting the rows that contain links and appl
 ### Model Creation
 We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths. Here is the link to the models for downloading: https://drive.google.com/drive/folders/1jBkcKQapW_Z9Ek19ilXyIfXBVLKf1bPc?usp=sharing 
 ### Architecture
-![Untitled Diagram (4)](https://user-images.githubusercontent.com/66206241/119534887-162e3780-bd90-11eb-8867-63bdf6adeb33.png)
+![schema](https://user-images.githubusercontent.com/66206241/120038797-7cbf8980-c00c-11eb-9b61-39183fa119ca.png)
+
 
 ## Content
 * Personality_Model_Creation.ipynb includes Data Import, Exploratory Data Analysis, Posts Preprocessing and Modelling.
@@ -26,6 +27,8 @@ In order to predict the personality type, you have to copy-paste a tweet into th
 
 ## Bibliography
 You can acces the data set here: https://www.kaggle.com/datasnaek/mbti-type
+General Information about MBTI: https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator
+Presentation: (this will be added soon:) )
 
 ## Author
 Mihaela Catan, mentored by Oriana Oniciuc.
