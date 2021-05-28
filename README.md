@@ -27,7 +27,9 @@ In order to predict the personality type, you have to copy-paste a tweet into th
 
 ## Bibliography
 You can acces the data set here: https://www.kaggle.com/datasnaek/mbti-type
+
 General Information about MBTI: https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator
+
 Presentation: (this will be added soon:) )
 
 ## Author
