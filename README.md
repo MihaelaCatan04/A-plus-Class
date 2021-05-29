@@ -1,4 +1,4 @@
-# A+ Class presents: Twitter-o-nality Predictor
+# A+ Class presents: Twitter-o-nality - Rediscover People Around You
 
 ## Introduction
 Everyone has certain likes, dislikes, quirks and idiosyncrasies — all the qualities that make up your personality, the things that make you you. That everyone has unique personalities makes life more interesting (or, sometimes, more difficult). But has it ever happened to you that an online pal or an influencer turned out to be have a different personality, other than you thought? If so, this project has been intended for you!
