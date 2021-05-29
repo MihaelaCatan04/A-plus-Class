@@ -15,7 +15,7 @@ The preprocessing part consists of deleting the rows that contain links and appl
 ### Model Creation
 We have used 4 Random Forest Models. In order to run them, you have to download the files from the repository and update the cells with the local paths. Here is the link to the models for downloading: https://drive.google.com/drive/folders/1VROhiv83O8LLHxG_taYdRBBGHj99lGdl?usp=sharing 
 ### Architecture
-![schema]![Untitled Diagram (7)](https://user-images.githubusercontent.com/66206241/120068658-7ec82d80-c08a-11eb-8d7a-424398b5a99d.png)
+![Untitled Diagram (7)](https://user-images.githubusercontent.com/66206241/120068658-7ec82d80-c08a-11eb-8d7a-424398b5a99d.png)
 
 
 
