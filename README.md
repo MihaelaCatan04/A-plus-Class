@@ -20,7 +20,7 @@ We have used 4 Random Forest Models. In order to run them, you have to download 
 
 
 ## Content
-* Personality_Model_Creation.ipynb includes Data Import, Exploratory Data Analysis, Posts Preprocessing and Modelling.
+* Personality_Model_Creation.ipynb includes Data Import, Exploratory Data Analysis, Posts Preprocessing and Modeling.
 * Personality_Prediction includes.ipynb includes Input Preprocessing, Input Reading and Prediction Obtainment.
 
 ## How to use the program?
